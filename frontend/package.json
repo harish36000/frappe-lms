@@ -27,7 +27,7 @@
     "frappe-ui": "^0.1.89",
     "lucide-vue-next": "^0.383.0",
     "markdown-it": "^14.0.0",
-    "pinia": "^2.0.33",
+    "pinia": "^2.3.0",
     "socket.io-client": "^4.7.2",
     "tailwindcss": "^3.3.3",
     "typescript": "^5.7.2",
